@@ -1,0 +1,24 @@
+MIS 3370 Lecture Notes
+Fall 2015
+
+=======
+Thu, Aug 27
+Ch. 1
+
+- code, compile, make changes, re-compile, more changes... repeat
+- File name must match name of class 
+- methods start with lower case, class start with upper (camel case structure)
+
+=======
+Tue, Sep 1
+Ch. 2
+
+- slide 4: make sure to choose the right data types for quiz
+- slide 5: also acceptable: ‘int numberOfStudents;’
+- slide 6: you can set value on same line or later, or change it later
+- slide 7: constants declared with ‘final’ and identifier is in CAPS
+- slide 10: a and b swap values
+- slide 12: data type sizes, know for quiz
+- slide 16: float and long are different have f and l at the end
+- slide 17: ‘String’ is a capitalized data type
+- slide 18: escape sequence /n
