@@ -1,12 +1,16 @@
 // Tue, Sep 1 | ch 2
+// Thu Sep 3 | ch 2 cont'd. | added dialog boxes and user input
+import javax.swing.JOptionPane;
 public class  Time 
 {
 	public static void main(String[] args) 
 	{
-		int minutes = 197;
-		int hours = minutes / 60;
-		int minutesLeftOver = minutes % 60;
+		String minutes;
+		minutes = JOptionPane.showInputDialog(null, "how many minutes did you work?");
 
-		System.out.println( minutes + " is eual to " + hours + " hours and " + minutesLeftOver + " minutes."); 	
+		int hours = Integer.parseInt(minutes) / 60;
+		int minutesLeftOver = Integer.parseInt(minutes) % 60;
+
+		JOptionPane.showMessageDialog(null, minutes + " minutes is equal to " + hours + " hours and " + minutesLeftOver + " minutes."); 	
 	}
 }

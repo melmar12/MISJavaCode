@@ -13,12 +13,28 @@ Ch. 1
 Tue, Sep 1
 Ch. 2
 
-- slide 4: make sure to choose the right data types for quiz
+- slide 4: make sure to choose the right data types (memorize) for quiz
 - slide 5: also acceptable: ‘int numberOfStudents;’
 - slide 6: you can set value on same line or later, or change it later
 - slide 7: constants declared with ‘final’ and identifier is in CAPS
 - slide 10: a and b swap values
 - slide 12: data type sizes, know for quiz
-- slide 16: float and long are different have f and l at the end
+- slide 16: float and long are different have 'f' and 'L' at the end
 - slide 17: ‘String’ is a capitalized data type
 - slide 18: escape sequence /n
+
+=======
+Thu, Sep 3
+Ch. 2 (cont'd.)
+
+- '+' concatination 
+- slide 22: importing packages, dialog box 
+- slide 24: arithmetic chart 
+- pemdas and using () is the same as always in java
+- don't repeat, be efficent 
+- data type heirarchy; double, float, long, int (big to small) 
+- whe performing arthmeic with diff data types, the biger type is the result 
+- casting ex: '(int)'
+- slide 31: user input, result as a String 
+- slide 34: parse to conver result "45" to 45 
+- look at java program documentation online 
