@@ -38,3 +38,40 @@ Ch. 2 (cont'd.)
 - slide 31: user input, result as a String 
 - slide 34: parse to conver result "45" to 45 
 - look at java program documentation online 
+
+=======
+Tue, Sep 8
+Ch. 3 (- p. 142)
+Using Methods, Classes, and Objects
+
+- slide 5: parts of a method, method header 
+- custom methods don't go inside the main method
+- slide 8: Arguments and Parameters 
+- 'void' doesn't return anything to the method
+- 'parseInt' does return some thing: 'integer'
+- slide 15: 'double' returns a double. 
+- each methods returns one piece of info. (ex: an int, an object, or an array)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
