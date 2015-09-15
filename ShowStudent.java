@@ -9,7 +9,7 @@ Wtrite a class named ShowStudent that instantiates a Student obj frm the class y
 
 		mel.setStudentID(991);
 		mel.setCreditHours(6);
-		mel.setGradePoints(24);
+		mel.setGradePoints(20);
 		mel.calcGPA();
 
 		System.out.println("Student ID: " + mel.getStudentID());

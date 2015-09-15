@@ -62,6 +62,12 @@ Using Methods, Classes, and Objects
 - slide 25: review this concept... 
 - data feilds are ususally set private 
 
+=======
+Tue, Sep 15
+Ch. 4
+
+- none
+
 
 
 
