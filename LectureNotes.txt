@@ -52,7 +52,15 @@ Using Methods, Classes, and Objects
 - slide 15: 'double' returns a double. 
 - each methods returns one piece of info. (ex: an int, an object, or an array)
 
+=======
+Thu, Sep 10
+Ch. 3 (cont'd.)
+Using Methods, Classes, and Objects
 
+- slide 23: look at table 1-3 page 145 for static vs nonstatic example
+- when using nonstatic data, just omit the word 'static'
+- slide 25: review this concept... 
+- data feilds are ususally set private 
 
 
 

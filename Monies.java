@@ -14,6 +14,7 @@ public class Monies
 		System.out.println("net pay: $" + netPay);
 
 	}
+
 }
 
 
