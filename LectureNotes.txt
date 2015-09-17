@@ -68,6 +68,22 @@ Ch. 4
 
 - none
 
+=======
+Tue, Sep 17
+Ch. 4 (cont'd.)
+
+- this.
+- this()
+- static vs non static, table in text
+- look at java devloper documentation
+- util.GregorianCalendar or just util.*
+	+ american calendar 
+	+ Jan = 0, Feb = 1, Mar = 2, etc... 
+- QUIZ
+	+ 8.5 x 11" cheat sheet
+	+ data types, whent to use main()
+	+ static vs instance?
+	+ when to parse()
 
 
 
