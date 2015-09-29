@@ -108,11 +108,30 @@ post Quiz 1
 =======
 Thu, Sep 24
 Ch. 5 
-
+- If and Else statements 
 - can't compare Objects bc it just compares memory location
 
+=======
+Thu, Sep 29
+Ch. 5 (cont'd)
 
-
+- slide19: start
+- "And" operator "&&" multiple tests, if statements 
+	+ use if both conditions are needed to be true
+- "Or" operator "||" called "pipes"
+	+ use if at least one needs to be true
+- diamond are decision points, rectangles are unconditional 
+- switch Statements: matching one value, against many 
+	+ break; 
+	+ default 
+- alternate short way;
+	testExpression ? trueResult : falseResult;
+	//assume a=2, b=3
+	smallerNum = (a<b) ? a : b;
+- NOT operator "!" , flips true to false, false to true
+- AND evaluated before OR
+- slide37: "put on cheat sheet"
+- slide39: "female 3 traffic tickets" - review the two 
 
 
 
