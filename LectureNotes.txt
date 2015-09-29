@@ -86,8 +86,30 @@ Ch. 4 (cont'd.)
 	+ when to parse()
 
 
+Put on Cheat sheet
+	byte: -128 to 127
+	short: -32,768 to 32,767
+	int: -2,147,483,648 to 2,147,483,647
+	long: fucking long
+	float: 1.40129846432481707e-45 to 3.40282346638528860e+38
+	double: 4.94065645841246544e-324d to 1.79769313486231570e+308d
+	char:  'A'
+	boolean: 1,0 T,F
+
+	Instance is a specific Object
 
 
+============
+post Quiz 1
+============
+
+
+
+=======
+Thu, Sep 24
+Ch. 5 
+
+- can't compare Objects bc it just compares memory location
 
 
 
