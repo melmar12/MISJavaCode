@@ -112,7 +112,7 @@ Ch. 5
 - can't compare Objects bc it just compares memory location
 
 =======
-Thu, Sep 29
+Tue, Sep 29
 Ch. 5 (cont'd)
 
 - slide19: start
@@ -133,7 +133,14 @@ Ch. 5 (cont'd)
 - slide37: "put on cheat sheet"
 - slide39: "female 3 traffic tickets" - review the two 
 
+=======
+Thu, Oct 1
+Ch. 6
 
+- loops
+- while 
+- for 
+- definite, indefinite, infinite
 
 
 
