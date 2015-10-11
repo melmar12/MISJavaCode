@@ -142,9 +142,31 @@ Ch. 6
 - for 
 - definite, indefinite, infinite
 
+=======
+Tue, Oct 6
+Ch. 6 (cont'd)
+
+- 20 mins late...
+- slide22: for loop
+- nested loops
+
+=======
+Thu, Oct 8
+Ch. 7
+
+- strings n shit
+- Test notes:
+	+ test on ch.1 - 6
+	+ 'Local Date' can be on test (ch.4)
+	+ arithmatic with dates (ch.4)
+	+ misso fb page post
+	+ can have cheatsheet
+	+ red scantron 
 
 
-
+============
+post Test 1
+============
 
 
 
