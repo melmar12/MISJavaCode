@@ -183,7 +183,7 @@ Ch. 7 (cont'd)
 	isLetter()
 	isLetterOrDigit()
 	isWhiteSpace()
-	
+
 - know these mothods:
 	equals()
 	equalsIgnoreCase()
@@ -198,7 +198,7 @@ Ch. 7 (cont'd)
 	subString()
 	regionMatches() - biggie
 
-- optional parameters are in "[ ]"
+- optional parameters are in "[ ]" in the documentation 
 
 
 =======
