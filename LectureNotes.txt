@@ -217,7 +217,12 @@ Ch. 8 (cont'd)
 Thu, Oct 22
 Ch. 10
 
-- Quiz 2, everything before this point
 - Inheritance "hard" - will be higjly emphazied in exam 2
-- 
+- used in every OBJ lang
+- UML again, helps visualize inheritance 
+- minus and plus signs , private vs public
+- read chapter lol
+- how do you inheriant? add "extends ClassName" to Subclass header
+- priivate attr accesed with get and set methods 
+- child class and overide stuff (methods) from superclass 
 
