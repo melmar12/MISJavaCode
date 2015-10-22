@@ -207,3 +207,17 @@ Ch. 8
 
 - Arrays 
 
+=======
+Tue, Oct 20
+Ch. 8 (cont'd)
+
+- searching arrays
+
+=======
+Thu, Oct 22
+Ch. 10
+
+- Quiz 2, everything before this point
+- Inheritance "hard" - will be higjly emphazied in exam 2
+- 
+
