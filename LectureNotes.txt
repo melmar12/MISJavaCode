@@ -226,3 +226,14 @@ Ch. 10
 - priivate attr accesed with get and set methods 
 - child class and overide stuff (methods) from superclass 
 
+
+=======
+Tue, Oct 20
+Ch. 10 (cont'd)
+
+- this() vs super() & this. super. 
+	+ ex in Suite.java
+- slide 19
+- private vals are private*
+- ca't overide methods - kinda confused... they're 'hidden'
+- can't override "final" methods 
