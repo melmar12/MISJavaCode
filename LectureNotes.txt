@@ -172,31 +172,7 @@ post Test 1
 Tue, Oct 13
 Ch. 7 (cont'd)
 
-- slide5: know these methods
-	isUpperCase()
-	toUpperCase()
 
-	isLowerCase()
-	toLowerCase()
-
-	isDigit()
-	isLetter()
-	isLetterOrDigit()
-	isWhiteSpace()
-
-- know these mothods:
-	equals()
-	equalsIgnoreCase()
-	compareTo()
-	length()
-	indexOf()
-	charAt()
-	endsWith()
-	startsWith()
-	replace() - two parametrs 
-	toString()
-	subString()
-	regionMatches() - biggie
 
 - optional parameters are in "[ ]" in the documentation 
 
