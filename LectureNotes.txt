@@ -213,3 +213,8 @@ Ch. 10 (cont'd)
 - private vals are private*
 - ca't overide methods - kinda confused... they're 'hidden'
 - can't override "final" methods 
+
+=======
+Tue, Nov 3
+
+- CollegeList.java project 
