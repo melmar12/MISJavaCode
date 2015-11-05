@@ -202,10 +202,8 @@ Ch. 10
 - priivate attr accesed with get and set methods 
 - child class and overide stuff (methods) from superclass 
 
-
 =======
-Tue, Oct 20
-Ch. 10 (cont'd)
+Tue, Oct 26
 
 - this() vs super() & this. super. 
 	+ ex in Suite.java
@@ -215,6 +213,55 @@ Ch. 10 (cont'd)
 - can't override "final" methods 
 
 =======
+Thu, Oct 29
+
+- empty
+
+=======
 Tue, Nov 3
 
 - CollegeList.java project 
+
+=======
+Thu, Nov 5
+ch. 12 File Input and Output
+
+- read this chapter on blackboard, not covered in text
+- java.io.*; download file package
+- File Obj like, File someData = new File("Data.txt");
+- use \\ instead of \ for file paths bc "\" is an escape sequence in java
+- methods:
+	canRead() - boolean
+	canWrite() - boolean
+	exists() - boolean
+	getName() - String
+	getPath() - String
+	getParent() - String
+	length() - long {returns file size}
+	lastModified() - long
+- Stream Classes:
+	InputStream
+	OutputStream
+	FileInputStream
+	FileOutputStream
+	PrintStream
+	BufferedInputStream 
+- System.in - captures keyboard input in the terminal
+- "-1" is "end of file"
+- throws exception {error handling, you'll see it in examples, not being tested specifically on it.}
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
