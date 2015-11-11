@@ -249,9 +249,31 @@ ch. 12 File Input and Output
 - System.in - captures keyboard input in the terminal
 - "-1" is "end of file"
 - throws exception {error handling, you'll see it in examples, not being tested specifically on it.}
-- 
 
+=======
+Tue, Nov 10
+ch. 12 File Input and Output (cont'd)
 
+- slide21: creating writting and closing a file
+- don't forget to close the file
+- Exceptions.. IOExceptions.. ??
+- slide23: try & catch example, exception handling 
+	try{do stuff}
+	catch(IOException exception){do stuff}
+- code is in ch replacement folder on bb
+- slide26: avoid hard coding file names
+- random access, jumping imedialtly to a file
+- RandomAccessFile myFile = new Rand...("\\path", "rw");
+	seek() - takes position starting from 0
+	read(),write(),close()
+- record sizes
+	byte - 1 byte
+	short - 2 bytes
+	int - 4
+	float - 4
+	long - 8
+	double - 8
+	
 
 
 
