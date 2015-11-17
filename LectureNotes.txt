@@ -273,7 +273,27 @@ ch. 12 File Input and Output (cont'd)
 	float - 4
 	long - 8
 	double - 8
-	
+
+
+=======
+Th, Nov 12
+Absent - Las Vegas - Zappos 
+
+- modular
+- not writting everything in the same (main?)method
+- finish ch 12 after slide 23
+
+=======
+Tue, Nov 17
+Sequential File Processing 
+
+- got handout in class
+- end of the night resturant example
+- retirieving/jumping to files
+- sequential - starting point
+- random - specific file
+- put symbols on cheat sheet!
+- slide10: ex of one method
 
 
 
