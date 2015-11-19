@@ -102,7 +102,11 @@ Put on Cheat sheet
 ============
 post Quiz 1
 ============
-
+ _____	____  ____ _______
+|  _  \/ _  \/    \__  ___|
+| |_| | / \  |_ \ / |  |
+|  ___/ \_/  | \  \ |  |
+|__|  \_____/\____/ |__|
 
 
 =======
@@ -294,6 +298,12 @@ Sequential File Processing
 - random - specific file
 - put symbols on cheat sheet!
 - slide10: ex of one method
+
+=======
+Thu, Nov 19
+Sequential File Processing
+
+- in class handouts 
 
 
 
