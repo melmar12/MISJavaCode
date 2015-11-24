@@ -305,6 +305,17 @@ Sequential File Processing
 
 - in class handouts 
 
+=======
+Tue, Nov 24
+Modularization and Cohesion
+
+- in class handouts
+	- has examples of each 
+- slides have definitions  
+- module is to method
+- codesion is a measure of the internal stength of a module
+	- how closely related they are
+- slide 13: example of exam question 
 
 
 
